@@ -1,0 +1,103 @@
+h1 {
+	color: red;
+	text-align: center; /* tex alineado*/
+}
+
+nav {
+	float: left;
+}
+
+
+.bloque{
+	margin: 0px auto;
+	text-align: center;
+	overflow: auto;
+}
+
+
+
+.logoprin2{
+	float: left;
+}
+
+.logo2 {
+	margin: 30px;
+	text-align: center;
+}
+
+.logo3 {
+	margin: 30px;
+	display: block;
+}
+
+.logo5 {
+	margin: 30px;
+	overflow: auto;
+	clear: both;
+	text-align: center;
+}
+
+.logo6{
+	margin: 30px;
+	display: inline-block;
+	border: 1px red solid;
+	    width: 200px;
+    height: 40px;
+}
+.logo4 {
+	margin: 30px;
+	overflow: auto;
+	text-align: center;
+}
+
+.logodiv {
+	margin: 30px;
+	display: inline-block;
+	border: 1px red solid;
+}
+
+.clase1 {
+	margin: 30px;
+	color: green;
+	display: inline-block;
+}
+
+.clase2 {
+	float: left;
+}
+
+.clase3 {
+	margin: 30px;
+	display: inline-block;
+}
+
+main {
+	clear: both;
+	margin: 30px;
+}
+
+header {
+	margin: 30px;
+}
+
+footer {
+	margin: 30px;
+}
+nav {
+	margin: 30px;
+	float: left;
+}
+
+
+
+/* 
+
+atributo solo
+
+clase .
+
+id #
+
+el div te hace cajas 
+
+*/
